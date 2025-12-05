@@ -1,0 +1,8 @@
+﻿.env
+.env.*
+/vendor/
+/bundle/
+/log/
+/tmp/
+*.log
+.DS_Store
